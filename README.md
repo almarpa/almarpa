@@ -6,4 +6,4 @@ I am Software Engineer and Full stack Developer. I love experimenting with new t
 - 🌱 Learning and Developing Frontend based projects in Python.
 - 📫 How to reach me: 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=almarpa&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=almarpa&show_icons=true&theme=synthwave)
