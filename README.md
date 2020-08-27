@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+I am Software Engineer and Full stack Developer. I love experimenting with new technologies and building IT solutions.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+<!-- 💻 Working as a **CloudOps Engineer** in [Crest Data System](https://www.crestdatasys.com/a). -->
+- 🌱 Learning and Developing Frontend based projects in Python.
+- 📫 How to reach me: 
 
-- 💻 Working as a **CloudOps Engineer** in [Crest Data System](https://www.crestdatasys.com/a).
-- 🌱 Learning and Developing Machine Learning based projects in Python.
-- 📫 How to reach me: ...
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
