@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I'm a Software Engineer interested in FullStack development. I love experimenting with new technologies and building IT solutions.
 
-- 🌱 Currently learning and developing apps in Angular, NodeJS, Express and MongoDB.
+- 🌱 Currently learning and developing apps with MEAN Stack (Angular, NodeJS, Express and MongoDB).
 - 📫 How to reach me: almarpa4@gmail.com
-- 💻  www.linkedin.com/in/alejandro-marco-palomares-9aa366172 
+- <img align="center" height="25" width="40" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />  www.linkedin.com/in/alejandro-marco-palomares-9aa366172
 
 <div style:"float: center;">    
 <img align="center" height="25" width="25" src="https://camo.githubusercontent.com/4781e0847a4467c26c793b583a64dac8c15007bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667" />
