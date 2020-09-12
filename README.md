@@ -2,7 +2,7 @@
 ### I'm a Software Engineer interested in FullStack development. I love experimenting with new technologies and building IT solutions.
 
 - 🌱 Currently learning and developing apps with MEAN Stack (Angular, NodeJS, Express and MongoDB).
-- 📫 How to reach me: almarpa4@gmail.com, 
+- 📫 How to reach me:
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=30; src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png" /></a>,
 <a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172"><img height=25 width=40;        src="https://www.minneapolis.edu/sites/default/files/styles/small_300_2x/public/linkedin-540x320.jpg?itok=hDuXrnJp" /></a>
                              
