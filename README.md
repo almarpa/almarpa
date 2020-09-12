@@ -27,8 +27,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>
 
-
-<div style:" margin: 0 auto;">  
-    <p>[LinkedIn](www.linkedin.com/in/alejandro-marco-palomares-9aa366172)</p>
-</div>
+    [LinkedIn](www.linkedin.com/in/alejandro-marco-palomares-9aa366172)
  
