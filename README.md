@@ -4,7 +4,7 @@
 - 🌱 Currently learning and developing apps with MEAN Stack (Angular, NodeJS, Express and MongoDB).
 - 📫 How to reach me: almarpa4@gmail.com
 
-<div style:"display: flex;align-items: center;">  
+<div style:" margin: 0 auto;">  
     <a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172">
          <img alt="Qries" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png"
          width=40" height="25">
