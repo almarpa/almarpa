@@ -19,13 +19,11 @@
 <img align="center" height="25" width="25" src="https://camo.githubusercontent.com/912b3c635b0c0c198c68114f038ecc28a17728e7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" />
 </div>
 
-<div style="margin:5";></div>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=almarpa&show_icons=true&theme=tokyonight (https://github.com/anuraghazra/github-readme-stats)"/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>
 
-    [LinkedIn](www.linkedin.com/in/alejandro-marco-palomares-9aa366172)
- 
+<a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172"><img height=25 width=40 margin: auto; src="https://www.minneapolis.edu/sites/default/files/styles/small_300_2x/public/linkedin-540x320.jpg?itok=hDuXrnJp" alt="Los Tejos" /></a>
+
