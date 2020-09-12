@@ -29,9 +29,6 @@
 
 
 <div style:" margin: 0 auto;">  
-    <a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172">
-         <img alt="Qries" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png"
-         width=40" height="25">
-      </a>
+    <p>[LinkedIn](www.linkedin.com/in/alejandro-marco-palomares-9aa366172)</p>
 </div>
  
