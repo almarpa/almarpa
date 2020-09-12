@@ -3,14 +3,7 @@
 
 - 🌱 Currently learning and developing apps with MEAN Stack (Angular, NodeJS, Express and MongoDB).
 - 📫 How to reach me: almarpa4@gmail.com
-
-<div style:" margin: 0 auto;">  
-    <a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172">
-         <img alt="Qries" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png"
-         width=40" height="25">
-      </a>
-</div>
-                               
+                             
 <div style:"float: center;">    
 <img align="center" height="25" width="25" src="https://camo.githubusercontent.com/4781e0847a4467c26c793b583a64dac8c15007bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667" />
 <img align="center" height="25" width="25" src="https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" />
@@ -35,4 +28,10 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>
 
 
+<div style:" margin: 0 auto;">  
+    <a href="www.linkedin.com/in/alejandro-marco-palomares-9aa366172">
+         <img alt="Qries" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png"
+         width=40" height="25">
+      </a>
+</div>
  
