@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Software Engineer with experience in Android and Full Stack development. I love experimenting with new technologies and building IT solutions.
+### I'm a Software Engineer with experience in Full Stack development. I love experimenting with new technologies and building IT solutions.
 
 - 🌱 Currently learning and developing apps with MEAN Stack (Angular, NodeJS, Express and MongoDB).
 - 📫 How to reach me:
