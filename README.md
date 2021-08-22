@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm a Software Engineer with knowledge in Full Stack development. I love experimenting with new technologies and building IT solutions.
 
-- 📱 Currently working as Android Developer (Kotlin).
+- 📱 Currently working as Android Developer (Kotlin - MVVM).
 - 💻 With experience in Front End development.
 - 📫 How to reach me:
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=30; src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png" /></a>
