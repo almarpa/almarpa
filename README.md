@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Software Engineer with knowledge in Full Stack development. I love experimenting with new technologies and building IT solutions.
+### I'm a Software Engineer who loves experimenting with new technologies and building IT solutions.
 
 - 📱 Passionate about mobile development. Currently, working as Android Developer (Kotlin - MVVM).
 - 💻 Skilled in Full Stack development, with remarkable experience in Front End development and also working with Back End technologies in personal projects.
