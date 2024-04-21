@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm a Software Engineer who loves experimenting with new technologies and building IT solutions.
 
-- 📱 Passionate about mobile development. Currently, working as Android Developer (Kotlin - MVVM).
-- 💻 Skilled in Full Stack development, with remarkable experience in Front End development and also working with Back End technologies in personal projects.
+- 📱 Passionate about mobile development. Currently, working as Android developer (Kotlin - MVVM).
+- 💻 Skilled in Full-stack development, with remarkable experience in Front-end development and also working with Back-end technologies in personal projects.
 - 💡 Always learning.
 - 📫 Reach me out at:
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=30; src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png" /></a>
