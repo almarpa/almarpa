@@ -22,5 +22,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
-https://miro.medium.com/v2/resize:fit:966/1*w0N9MHgWeUpAc4w8q7mmbg.png
 [About me](https://almarpa.github.io/portfolio/)
