@@ -15,7 +15,9 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,scss,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>)-->
 
 ![Android](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![KMP](https://miro.medium.com/v2/resize:fit:966/1*w0N9MHgWeUpAc4w8q7mmbg.png)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
+https://miro.medium.com/v2/resize:fit:966/1*w0N9MHgWeUpAc4w8q7mmbg.png
 [About me](https://almarpa.github.io/portfolio/)
