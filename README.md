@@ -18,4 +18,4 @@
 
 <img height=25 width=80 src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img height=25 width=80 src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
-<img height=25 width=80 https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+<img height=25 width=80 src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
