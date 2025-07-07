@@ -14,7 +14,6 @@
 <!---[comment]: <> (<a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,scss,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>)-->
 
-- Tech stack:
 ![Android](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
