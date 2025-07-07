@@ -16,4 +16,4 @@
 
 [About me](https://almarpa.github.io/portfolio/)
 
-<img height=25 width=40 src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
