@@ -18,5 +18,5 @@
 
 - Stack:
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=80 src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
-<img height=25 width=80 src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
-<img height=25 width=50 src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+<a href="mailto:almarpa4@gmail.com"><img height=25 width=80 src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" /></a>
+<a href="mailto:almarpa4@gmail.com"><img height=25 width=50 src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></a>
