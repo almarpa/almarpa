@@ -15,3 +15,5 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,scss,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>)-->
 
 [About me](https://almarpa.github.io/portfolio/)
+
+<img height=25 width=40 src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
