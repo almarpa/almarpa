@@ -5,7 +5,7 @@
 - 💻 Skilled in Full-stack development, with remarkable experience in Front-end development and also working with Back-end technologies in personal projects.
 - 💡 Always learning.
 - 📫 Reach me out at:
-<a href="mailto:almarpa4@gmail.com"><img height=25 width=30; src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png" /></a>
+<a href="mailto:almarpa4@gmail.com"><img height=25 width=30; src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" /></a>
 <a href="https://www.linkedin.com/in/alejandro-marco-palomares-9aa366172/"><img height=25 width=40;        src="https://www.minneapolis.edu/sites/default/files/styles/small_300_2x/public/linkedin-540x320.jpg?itok=hDuXrnJp" /></a>
                         
  <!---<a href="https://github.com/anuraghazra/convoychat">
