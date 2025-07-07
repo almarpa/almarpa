@@ -14,9 +14,9 @@
 <!---[comment]: <> (<a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almarpa&theme=tokyonight&hide=jupyter notebook,css,scss,&layout=compact(https://github.com/anuraghazra/github-readme-stats)"/>)-->
 
-[About me](https://almarpa.github.io/portfolio/)
-
-- Stack:
+- Tech stack:
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=80 src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=80 src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" /></a>
 <a href="mailto:almarpa4@gmail.com"><img height=25 width=50 src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></a>
+
+[About me](https://almarpa.github.io/portfolio/)
