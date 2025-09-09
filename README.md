@@ -29,4 +29,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
-[About me](https://almarpa.github.io/portfolio/)
+[Web](https://almarpa.github.io/portfolio/)
