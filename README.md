@@ -1,7 +1,5 @@
 ### Hi there 👋
-### I'm a Software Engineer who loves experimenting with new technologies and building IT solutions.
-
-I am a Software Engineer graduated from the Polytechnic University of Valencia, holding a Master’s Degree in Software Engineering, Formal Methods and Information Systems.
+### I am a Software Engineer graduated from the Polytechnic University of Valencia, holding a Master’s Degree in Software Engineering, Formal Methods and Information Systems.
 
 📱 Mobile Development
 - Currently working as an Android Developer specialized in Kotlin and MVVM / MVI, with strong experience designing and building modular mobile applications applying CLEAN Architecture.
